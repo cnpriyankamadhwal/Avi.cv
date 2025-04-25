@@ -5,8 +5,15 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family:"Bitter", serif;
+    font-family: "Bitter", serif;
     font-size: 23px;
+}
+
+.button-links{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin: 20px 0;
 }
 
 .btn a {
@@ -28,19 +35,19 @@
 
 .btn {
     background-color: royalblue;
-    padding: 7 15px;
+    padding: 7px 15px;
     border-radius: 5px;
     border: none;
 }
 
 .btn-2 {
     background-color: royalblue;
-    padding: 7 15px;
+    padding: 7px 15px;
     border-radius: 5px;
     border: none;
 }
 
-.boxs-icon{
+.boxs-icon {
     text-align: center;
 }
 
